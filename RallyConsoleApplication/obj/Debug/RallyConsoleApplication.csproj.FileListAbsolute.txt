@@ -1,0 +1,6 @@
+c:\users\visheshb\documents\visual studio 2015\Projects\RallyConsoleApplication\RallyConsoleApplication\bin\Debug\RallyConsoleApplication.exe.config
+c:\users\visheshb\documents\visual studio 2015\Projects\RallyConsoleApplication\RallyConsoleApplication\bin\Debug\RallyConsoleApplication.exe
+c:\users\visheshb\documents\visual studio 2015\Projects\RallyConsoleApplication\RallyConsoleApplication\bin\Debug\RallyConsoleApplication.pdb
+c:\users\visheshb\documents\visual studio 2015\Projects\RallyConsoleApplication\RallyConsoleApplication\bin\Debug\Rally.RestApi.dll
+c:\users\visheshb\documents\visual studio 2015\Projects\RallyConsoleApplication\RallyConsoleApplication\obj\Debug\RallyConsoleApplication.exe
+c:\users\visheshb\documents\visual studio 2015\Projects\RallyConsoleApplication\RallyConsoleApplication\obj\Debug\RallyConsoleApplication.pdb
